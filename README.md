@@ -1,4 +1,4 @@
-# Hellow-world
+# Hello-world
 just another repository
 Hi people!
 
